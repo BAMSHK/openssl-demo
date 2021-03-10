@@ -64,7 +64,7 @@ x509 -req -in server-req.csr -out  server-csr.pem -signkey server-key.pem -CA ca
 ```
 ![](https://gitee.com/BiAn-MoShangHuaKai/img/raw/master/data/20210310104616.png)
 
-## 四、使用证书开始https的web服务
+## 四、使用证书开启https的web服务
 1. 安装nodejs
 ```bash
 yum install node js 

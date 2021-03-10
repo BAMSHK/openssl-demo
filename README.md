@@ -1,6 +1,6 @@
-相关文档：https://my.oschina.net/u/4375161/blog/4780357
-
 ## 一、使用openssl 公钥加密，私钥解密
+![image](https://user-images.githubusercontent.com/40750078/110567338-49e3c300-818c-11eb-865f-751dac901268.png)
+
 ### 1. 使用rsa算法生成私钥
 
 #### 2.通过私钥生成公钥

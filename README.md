@@ -1,8 +1,8 @@
 ## 一、使用openssl 公钥加密，私钥解密
-![image](https://user-images.githubusercontent.com/40750078/110567338-49e3c300-818c-11eb-865f-751dac901268.png)
+
 
 ### 1. 使用rsa算法生成私钥
-
+![image](https://user-images.githubusercontent.com/40750078/110567338-49e3c300-818c-11eb-865f-751dac901268.png)
 #### 2.通过私钥生成公钥
 
 公钥的长度比私钥的短
